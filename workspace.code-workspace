@@ -1,10 +1,13 @@
 {
-	"folders": [
-		{
-			"path": "front-end"
-		},
-		{
-			"path": "broker-service"
-		}
-	]
+  "folders": [
+    {
+      "path": "front-end"
+    },
+    {
+      "path": "broker-service"
+    },
+    {
+      "path": "project"
+    }
+  ]
 }
