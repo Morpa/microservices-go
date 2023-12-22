@@ -27,4 +27,5 @@ db-data
 brokerApp
 frontApp
 authApp
+loggerServiceApp
 
