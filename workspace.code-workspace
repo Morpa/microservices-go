@@ -16,7 +16,7 @@
       "path": "logger-service"
     },
     {
-      "path": "email-service"
+      "path": "mail-service"
     }
   ]
 }
